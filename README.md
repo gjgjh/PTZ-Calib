@@ -36,7 +36,7 @@ We provide `run_reloc_synthetic.sh` and `run_reloc_worldcup14.sh` for batch runn
 
 If you use any of this code, please cite our [paper](https://arxiv.org/pdf/2502.09075). This paper was accepted by ICRA 2025.
 
-```bash
+```bibtex
 @article{guo2025ptzcalib,
   title={PTZ-Calib: Robust Pan-Tilt-Zoom Camera Calibration},
   author={Jinhui Guo and Lubin Fan and Bojian Wu and Jiaqi Gu and Shen Cao and Jieping Ye},
